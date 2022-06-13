@@ -28,3 +28,7 @@ You can install using the `pip` package manager by running:
 pip install pandas
 ```
 
+## 📚🦈 Qué hemos analizado
+
+Ataques de tiburones a hombres desde el año 2001, con datos como la `edad`, `país`, `hemisferio`, `edad`, `año` incluso si han sido `mortales` o no.
+
